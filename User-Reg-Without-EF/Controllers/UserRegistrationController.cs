@@ -38,9 +38,11 @@ namespace User_Reg_Without_EF.Controllers {
 
 
 
+
         public IActionResult Create() {
             return View();
         }
+
 
 
 
