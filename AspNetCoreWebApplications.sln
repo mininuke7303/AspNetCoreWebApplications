@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User-Reg-Without-EF", "User-Reg-Without-EF\User-Reg-Without-EF.csproj", "{EDD09DDB-6D3B-40C7-8D71-5A254242EF76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User-Reg-Without-EF", "User-Reg-Without-EF\User-Reg-Without-EF.csproj", "{EDD09DDB-6D3B-40C7-8D71-5A254242EF76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtNetMvcWithOracle", "ExtNetMvcWithOracle\ExtNetMvcWithOracle.csproj", "{8D7A971D-3606-4BDE-8E66-7A7E6B0802F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMvcWithOracle", "CoreMvcWithOracle\CoreMvcWithOracle.csproj", "{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{EDD09DDB-6D3B-40C7-8D71-5A254242EF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDD09DDB-6D3B-40C7-8D71-5A254242EF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDD09DDB-6D3B-40C7-8D71-5A254242EF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7A971D-3606-4BDE-8E66-7A7E6B0802F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7A971D-3606-4BDE-8E66-7A7E6B0802F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7A971D-3606-4BDE-8E66-7A7E6B0802F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7A971D-3606-4BDE-8E66-7A7E6B0802F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

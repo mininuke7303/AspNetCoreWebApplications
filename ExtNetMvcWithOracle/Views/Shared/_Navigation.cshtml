@@ -1,0 +1,15 @@
+@using ExtNetMvcWithOracle.Data
+<nav class="sidebar-nav">
+    <ul>
+    @{
+        foreach(var item in NavData.Items)
+        {
+            var active = @Context.Request.Path == @item.Path ? " active" : "";
+
+            var cls = $"sidebar-nav-link{active}";
+
+            <li><a href="@item.Path" class="@(cls)"><i class="x-md">@item.IconCls</i><span>@item.Name</span></a></li>
+        }
+    }
+    </ul>
+</nav>
