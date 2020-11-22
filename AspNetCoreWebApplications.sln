@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User-Reg-Without-EF", "User
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtNetMvcWithOracle", "ExtNetMvcWithOracle\ExtNetMvcWithOracle.csproj", "{8D7A971D-3606-4BDE-8E66-7A7E6B0802F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMvcWithOracle", "CoreMvcWithOracle\CoreMvcWithOracle.csproj", "{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreMvcWithOracle", "CoreMvcWithOracle\CoreMvcWithOracle.csproj", "{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExploreCalifornia", "ExploreCalifornia\ExploreCalifornia.csproj", "{2F456DA5-D05A-4C8A-ABE4-431E629AC95A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net5CoreMvc", "Net5CoreMvc\Net5CoreMvc.csproj", "{47239AEE-020F-4122-8462-39B580FC30D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EEB128BA-C6D7-41E9-83D9-58FF3ADC3ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160EBE7C-B223-4FBF-86C8-6F6CDCEBA0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F456DA5-D05A-4C8A-ABE4-431E629AC95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F456DA5-D05A-4C8A-ABE4-431E629AC95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F456DA5-D05A-4C8A-ABE4-431E629AC95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F456DA5-D05A-4C8A-ABE4-431E629AC95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47239AEE-020F-4122-8462-39B580FC30D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47239AEE-020F-4122-8462-39B580FC30D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47239AEE-020F-4122-8462-39B580FC30D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47239AEE-020F-4122-8462-39B580FC30D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB128BA-C6D7-41E9-83D9-58FF3ADC3ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB128BA-C6D7-41E9-83D9-58FF3ADC3ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB128BA-C6D7-41E9-83D9-58FF3ADC3ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB128BA-C6D7-41E9-83D9-58FF3ADC3ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
